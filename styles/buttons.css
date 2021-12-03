@@ -1,0 +1,11 @@
+.button{
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+	background-color: blue;
+}
+
+#turn-button{
+	text-align: center;
+	margin: 16px ;
+}
